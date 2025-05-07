@@ -1,0 +1,4 @@
+[submodule "theme/trema"]
+	path = theme/trema
+	url = git@github.com:trema-tech/moodle-theme_trema.git
+	branch = main
