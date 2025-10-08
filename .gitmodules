@@ -1,7 +1,7 @@
 [submodule "auth/outage"]
 	path = auth/outage
 	url = git@github.com:catalyst/moodle-auth_outage.git
-	branch = MOODLE_501_STABLE
+	branch = MOODLE_39_STABLE
 
 [submodule "auth/saml2"]
 	path = auth/saml2
